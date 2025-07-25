@@ -1,10 +1,19 @@
 #!/usr/bin/python3
 
+# pseudocode
 '''
-This script takes in three inputs
+This script takes in three user inputs
 - pizza size : (small / large) string
 - number of toppings : integer
 - delivery distance (in miles) :integer
+
+Then calculate...
+- the base cost of the pizza using conditional statements
+- the cost of toppings
+- the delivery fee
+
+Sum up the total cost
+Display the result using an f-string
 '''
 
 # pizza size input and validation loop
